@@ -2,6 +2,15 @@
 
 Projeto Desenvolvido com a Digital Innovation one;
 
+
+## Endpoints: 
+Get:
+* https://calm-thicket-55734.herokuapp.com/countries 
+* https://calm-thicket-55734.herokuapp.com/states 
+* https://calm-thicket-55734.herokuapp.com/cities
+* https://calm-thicket-55734.herokuapp.com/distances/by-points?from=4929&to=5254
+* https://calm-thicket-55734.herokuapp.com/distances/by-cube?from=4929&to=5254
+
 ## Requirements
 
 * Linux
